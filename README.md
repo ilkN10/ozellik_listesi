@@ -1,0 +1,1 @@
+# ozellik_listesi
