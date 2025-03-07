@@ -1,5 +1,5 @@
 1.Kullanıcı dostu arayüz
 2.Çoklu dil desteği
-3.Karanlık mod desteği
+3.Gece modu
 4.Özelleştirilebilir tema seçenekleri
 5.Otomatik güncelleme
