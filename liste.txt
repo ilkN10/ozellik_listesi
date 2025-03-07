@@ -2,3 +2,4 @@
 2.Çoklu dil desteği
 3.Karanlık mod desteği
 4.Özelleştirilebilir tema seçenekleri
+5.Otomatik güncelleme
