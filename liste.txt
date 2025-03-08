@@ -3,4 +3,4 @@
 3.Gece modu
 4.Özelleştirilebilir tema seçenekleri
 5.Otomatik güncelleme
-
+6.Hızlı işlem kapasitesi
