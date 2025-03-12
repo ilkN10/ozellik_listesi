@@ -1,4 +1,5 @@
 1.Kullanıcı dostu arayüz
 2.Gece modu
 3.Otomatik güncelleme
-4.Hızlı işlem kapasitesi
+4.Otomatik kayıt 
+5.Hızlı işlem kapasitesi
