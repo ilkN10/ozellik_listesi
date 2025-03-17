@@ -1,5 +1,5 @@
 1.Kullanıcı dostu arayüz
 2.Gece modu
-3.Otomatik güncelleme
-4.Otomatik kayıt 
-
+3.Güvenlik Özellikleri
+4.Otomatik güncelleme
+5.Otomatik kayıt 
