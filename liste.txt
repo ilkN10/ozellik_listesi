@@ -2,4 +2,4 @@
 2.Gece modu
 3.Otomatik güncelleme
 4.Otomatik kayıt 
-5.Hızlı işlem kapasitesi
+
